@@ -153,4 +153,4 @@ function redefinir(){
       foguete.scale =0.2;
       foguete.x = 200;
       foguete.y = 350;
-      fundo.velocityY = 4;}
+      fundo.velocityX = 4;}
